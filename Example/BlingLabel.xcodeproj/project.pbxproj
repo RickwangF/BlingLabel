@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		30808E7523287E6301FA01F0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		30808E7523287E6301FA01F0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		4A0778A778B6D28E05AF6A3D /* Pods-BlingLabel_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlingLabel_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BlingLabel_Example/Pods-BlingLabel_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* BlingLabel_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlingLabel_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -42,9 +42,9 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		73F196B36A797E33A3030FB0 /* Pods-BlingLabel_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlingLabel_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BlingLabel_Tests/Pods-BlingLabel_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		7B3B3583651CB471B552381C /* Pods_BlingLabel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BlingLabel_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8C782421F47A8E164A1DAD0E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		8C782421F47A8E164A1DAD0E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9574AD24D0C0C5082C15761D /* Pods_BlingLabel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BlingLabel_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BD948CD560D052FE36E36456 /* BlingLabel.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = BlingLabel.podspec; path = ../BlingLabel.podspec; sourceTree = "<group>"; };
+		BD948CD560D052FE36E36456 /* BlingLabel.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = BlingLabel.podspec; path = ../BlingLabel.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D72EEAB49787535524F07392 /* Pods-BlingLabel_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlingLabel_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-BlingLabel_Example/Pods-BlingLabel_Example.release.xcconfig"; sourceTree = "<group>"; };
 		FA4778F02649F30F4F4689B7 /* Pods-BlingLabel_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlingLabel_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BlingLabel_Tests/Pods-BlingLabel_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

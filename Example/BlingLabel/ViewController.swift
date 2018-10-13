@@ -7,18 +7,38 @@
 //
 
 import UIKit
+import BlingLabel
 
 class ViewController: UIViewController {
-
+    
+    var isBlinking = false
+    let blinkingLabel = BlingLabel(frame: CGRect(x: 10, y: 20, width: 200, height: 300))
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        // Setup the BlinkingLabel
+        blinkingLabel.text = "I blink!"
+        blinkingLabel.font = UIFont.systemFont(ofSize: 20)
+        view.addSubview(blinkingLabel)
+        blinkingLabel.startBlingBling()
+        isBlinking = true
+        
+        // Create a UIButton to toggle the blinking
+        let toggleButton = UIButton(frame: CGRect(x: 10, y: 60, width: 125, height: 30))
+        toggleButton.setTitle("Toggle Blinking", for: .normal)
+        toggleButton.setTitleColor(UIColor.red, for: .normal)
+        toggleButton.addTarget(self, action: #selector(toggleBlinking), for: .touchUpInside)
+        view.addSubview(toggleButton)
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    
+    @IBAction func toggleBlinking() {
+        if (isBlinking) {
+            blinkingLabel.stopBlingBling()
+        } else {
+            blinkingLabel.startBlingBling()
+        }
+        isBlinking = !isBlinking
     }
-
+    
 }
-
