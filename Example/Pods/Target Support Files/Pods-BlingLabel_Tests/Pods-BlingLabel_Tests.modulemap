@@ -1,0 +1,6 @@
+framework module Pods_BlingLabel_Tests {
+  umbrella header "Pods-BlingLabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

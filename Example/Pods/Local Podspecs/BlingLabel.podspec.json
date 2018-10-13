@@ -1,0 +1,22 @@
+{
+  "name": "BlingLabel",
+  "version": "0.1.0",
+  "summary": "A short description of BlingLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/woshiwwy16@126.com/BlingLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "woshiwwy16@126.com": "woshiwwy16@126.com"
+  },
+  "source": {
+    "git": "https://github.com/woshiwwy16@126.com/BlingLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BlingLabel/Classes/**/*"
+}

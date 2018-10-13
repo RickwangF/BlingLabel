@@ -1,0 +1,6 @@
+framework module BlingLabel {
+  umbrella header "BlingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

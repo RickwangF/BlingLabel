@@ -1,0 +1,16 @@
+PODS:
+  - BlingLabel (0.1.0)
+
+DEPENDENCIES:
+  - BlingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  BlingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BlingLabel: 6bd69709f936dca4be6131f62926c46e8f8d780b
+
+PODFILE CHECKSUM: 155ada928b91f7f8e1ac35859167a48b562cee3b
+
+COCOAPODS: 1.5.3
