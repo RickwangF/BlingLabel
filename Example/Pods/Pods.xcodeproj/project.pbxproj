@@ -37,28 +37,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		25A785A9758CAD2311E4ADD562F06D6B /* Pods_BlingLabel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BlingLabel_Tests.framework; path = "Pods-BlingLabel_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		25A785A9758CAD2311E4ADD562F06D6B /* Pods_BlingLabel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BlingLabel_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2841406788CA26E675F26B31DD1F07A5 /* BlingLabel-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BlingLabel-prefix.pch"; sourceTree = "<group>"; };
 		32C0BA0814BC03DB1DB94874C6F8FFD3 /* Pods-BlingLabel_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BlingLabel_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		413DCAFE1FDC221085A63A21F13CB02D /* BlingLabel-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "BlingLabel-dummy.m"; sourceTree = "<group>"; };
 		449F9BCFC8BFCDDB4EA61A32D44A8EDD /* Pods-BlingLabel_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-BlingLabel_Tests.modulemap"; sourceTree = "<group>"; };
-		526E20A330281FFE2377FC9E913EF817 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		526E20A330281FFE2377FC9E913EF817 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		53F1442D95F152BF50095EA49E300591 /* Pods-BlingLabel_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BlingLabel_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		58A541FE95F3D1EC837BDDE99D42C74B /* Pods-BlingLabel_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BlingLabel_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6F2BA8ABC04C0F54367F97ED1FBE84A5 /* Pods-BlingLabel_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BlingLabel_Example-umbrella.h"; sourceTree = "<group>"; };
 		6FE8CCF8533B0852722B86F73C6A7362 /* Pods-BlingLabel_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BlingLabel_Example-frameworks.sh"; sourceTree = "<group>"; };
-		7E9C2EC6260850E0A922BDF8AF65BE14 /* Pods_BlingLabel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BlingLabel_Example.framework; path = "Pods-BlingLabel_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7E9C2EC6260850E0A922BDF8AF65BE14 /* Pods_BlingLabel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BlingLabel_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EBD1826C38BF7D0A0B11A0BDA6E9D81 /* Pods-BlingLabel_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BlingLabel_Example-dummy.m"; sourceTree = "<group>"; };
 		80E32E8C716D50E6311843AC52A5737E /* BlingLabel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = BlingLabel.modulemap; sourceTree = "<group>"; };
-		89C2C88CEAF4EAAEAE4BDD602E309595 /* BlingLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = BlingLabel.framework; path = BlingLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		89C2C88CEAF4EAAEAE4BDD602E309595 /* BlingLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BlingLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B39D999477413E266917AF0045CAFFB /* Pods-BlingLabel_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BlingLabel_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		8C544D4EAC5E9C7ED35C5A4D86915DFB /* Pods-BlingLabel_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BlingLabel_Example.release.xcconfig"; sourceTree = "<group>"; };
-		91B89C9FF57E27A2F160B0E9B83EBEC5 /* BlingLabel.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = BlingLabel.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		91B89C9FF57E27A2F160B0E9B83EBEC5 /* BlingLabel.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = BlingLabel.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AA42E78B5B629BF59C004E9CC1468D70 /* Pods-BlingLabel_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BlingLabel_Tests-umbrella.h"; sourceTree = "<group>"; };
 		AF04CFF1FE04BCCF983C567B747CADC2 /* Pods-BlingLabel_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BlingLabel_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		B950547D261766551ACDDE851A53C53C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		B950547D261766551ACDDE851A53C53C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		BF4ECAE8EE3BEDB5D13BD4B96DD42F6A /* BlingLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BlingLabel.swift; path = BlingLabel/Classes/BlingLabel.swift; sourceTree = "<group>"; };
 		C31FCFB5943754F03212C4C89C911AA1 /* Pods-BlingLabel_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BlingLabel_Tests-resources.sh"; sourceTree = "<group>"; };
 		C39A8551CCAA381EB4A7D2B2483FB663 /* BlingLabel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BlingLabel-umbrella.h"; sourceTree = "<group>"; };
@@ -503,7 +503,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -597,7 +597,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
